@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close">закрыть</string>
+    <string name="bombTimer">Время до взрыва</string>
+    <string name="min">Мин</string>
+    <string name="sec">Сек</string>
+    <string name="count2Plant">Количество смволов для ЗАКЛАДКИ бомбы</string>
+    <string name="count2Defuse">Количсетво символов для РАЗМИНИРОВНИЯ</string>
+    <string name="adminPassword">Пароль админа</string>
+    <string name="settings">Настройки</string>
+    <string name="startactivity">Начинать с настроек</string>
+    <string name="howtoplay">Как играть \n \n для ЗАКЛАДКИ бомбы нужно ввести пароль состоящий из случайных символов, которые отображаются в левом верхнем углу экрана бомбы. для РАЗМИНИОВАНИЯ нужно сделать тоже самое.</string>
+</resources>
